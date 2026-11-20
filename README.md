@@ -1,7 +1,7 @@
 # 📊 Data Programming in R
 
 Data-analysis exercises with the **tidyverse** (dplyr, tidyr, purrr, stringr, ggplot2),
-written as a reproducible R Markdown report. Code comments are in **German (A2 level)**.
+written as a reproducible R Markdown report.
 
 ## Contents
 1. Exploring & summarising data (`mtcars`) – grouping, ranking, linear regression
