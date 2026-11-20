@@ -1,5 +1,10 @@
 # 📊 Data Programming in R
 
+[![render](https://github.com/muhammedfidann06/r-data-analysis/actions/workflows/render.yml/badge.svg)](https://github.com/muhammedfidann06/r-data-analysis/actions/workflows/render.yml)
+
+> 🇩🇪 **Kurzbeschreibung:** Datenanalyse mit R und dem Tidyverse – Daten filtern, gruppieren, umformen,
+> visualisieren und modellieren. Der Bericht wird bei jedem Push automatisch erstellt.
+
 Data-analysis exercises with the **tidyverse** (dplyr, tidyr, purrr, stringr, ggplot2),
 written as a reproducible R Markdown report.
 
